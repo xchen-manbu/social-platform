@@ -4,4 +4,9 @@ social-platform是基于Spring Boot、Spring Cloud构建的中间件平台，提
 # 平台地址
 https://platform-test.ivideofactory.com
 
+当前版本平台支持如下社交平台的发布接入功能：
 
+- Youtube
+- Twitter
+- Tiktok
+- Facebook 
